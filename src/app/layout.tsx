@@ -1,6 +1,7 @@
 import "./globals.css"
 import Link from "next/link"
 import { ReactNode } from "react"
+import { CartProvider } from "./context/CartContext"
 
 export const metadata = {
   title: "RevoShop",
@@ -22,6 +23,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           </div>
         </nav>
         <main className="max-w-7xl mx-auto p-6">{children}</main>
+        <CartProvider>{children}</CartProvider>
       </body>
     </html>
   )

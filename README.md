@@ -17,6 +17,8 @@ Dibuat untuk memenuhi tugas **Module 4 - Front-end Applications**.
 - Tailwind CSS
 - FakeStoreAPI (https://fakestoreapi.com)
 
+## 🧰 Struktur File
+
 ## ⚙️ Cara Menjalankan
 
 ```bash
