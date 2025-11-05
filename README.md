@@ -158,7 +158,7 @@ REVO-SHOP/
 ## 🌍 Live Demo
 
 🔗 **Live URL:**  
-(https://jefferzonleona.github.io/milestone-3-revoshop/)
+https://revou-fsse-jun25.github.io/milestone-3-Jefferzonleona/
 
 ---
 
